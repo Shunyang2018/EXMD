@@ -1,0 +1,5 @@
+iroot=2 icross=1 ioutci=1 kci=5 ncigrd=1 +
+movo=-4 ici1=1 ici2=1 nciref=1 +
+mciref=0 levexc=2 +
+nsav15=3 idiis=10 jop=-2 ipubo=1 nprint=-1 iscf=5 kitscf=200 iplscf=5 iop=-6 +
+ifast=2 igeom=1 ktrial=11 kharge=1 iform=1 imult=2 ifermi=21000

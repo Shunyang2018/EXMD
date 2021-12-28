@@ -8,7 +8,7 @@ The **[Binary-Encounter-Bethe (BEB) model](https://physics.nist.gov/PhysRefData/
 
 ![image](https://user-images.githubusercontent.com/30486093/147525916-fb281061-6c6c-4dc4-97d0-756d5f55384c.png)
 
-Where T is the energy of the impact electrons; B is the electron binding energy of MOi, U is the kinetic energy of MOi; the occupation number N of MOi is two for ground state molecules.![image](https://user-images.githubusercontent.com/30486093/147525928-cda95ca4-e4cd-4d64-bb13-9c2b5dae2152.png)
+Where T is the energy of the impact electrons; B is the electron binding energy of MO<sub>i</sub>, U is the kinetic energy of MO<sub>i</sub>; the occupation number N of MO<sub>i</sub> is two for ground state molecules.
 
 ## Workflow of QCEIMS EXMD
 1) The EI spectra are simulated under both ground state and excited state molecular dynamics.

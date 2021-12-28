@@ -46,7 +46,7 @@ The input file for qceims program<br />
 #### File: mndo.opt
 The input file for mndo99 program<br />
 
-### python script for Ionization cross section
+### [Python script for Ionization cross section](python_script/)
 #### File: batch_gms.py
 Generate input file for GAMESS program from tmol format coordinate files.
 #### File: BEB.py

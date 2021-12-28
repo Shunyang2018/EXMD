@@ -18,9 +18,9 @@ A modified **[QCEIMS](QCEIM_module/qceims_mndo)** excutable program is used to c
 
 
 ## User defined command of EXMD (MNDO.opt)
-iroot=2 icross=1 ioutci=1 kci=5 ncigrd=1 +
+**iroot=2 icross=1 ioutci=1 kci=5 ncigrd=1 +**
 
-  iroot: Total number of lowest CI states computed.
+  iroot: Total number of lowest CI states computed.<br />
   icross: Choice of multi-surface treatment.
     icross=1 Calculate energies and gradients for the states
         specified by ncigrd.

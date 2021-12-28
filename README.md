@@ -5,10 +5,7 @@ The **[MNDO](https://www.kofo.mpg.de/en/institute/history/1993-to-present/theore
 The **[GAMESS](https://www.msg.chem.iastate.edu/gamess/)** program is used to calculate the molecular orbital energy.
 
 The **[Binary-Encounter-Bethe (BEB) model](https://physics.nist.gov/PhysRefData/Ionization/intro.html)** is used to calculate the ionization cross-section.
-σ_i=S_i/(t_i+u_i+1) [ln⁡〖t_i 〗/2 (1-1/(t_i^2 ))+1-1/t_i -(ln〖 t〗_i)/(t_i+1)]
-u=  U/B,t=T/B,S=(4πa_0^2 NR^2)/B^2 
 
-a_0=0.592Å,R=13.61 eV
 ![image](https://user-images.githubusercontent.com/30486093/147525916-fb281061-6c6c-4dc4-97d0-756d5f55384c.png)
 
 Where T is the energy of the impact electrons; B is the electron binding energy of MOi, U is the kinetic energy of MOi; the occupation number N of MOi is two for ground state molecules.![image](https://user-images.githubusercontent.com/30486093/147525928-cda95ca4-e4cd-4d64-bb13-9c2b5dae2152.png)

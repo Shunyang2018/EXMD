@@ -7,7 +7,6 @@ The **[GAMESS](https://www.msg.chem.iastate.edu/gamess/)** program is used to ca
 The **[Binary-Encounter-Bethe (BEB) model](https://physics.nist.gov/PhysRefData/Ionization/intro.html)** is used to calculate the ionization cross-section.
 
 ![image](https://user-images.githubusercontent.com/30486093/147526011-6021876e-d079-4ddb-82fb-44bbe74d810b.png)
-
 Where T is the energy of the impact electrons; B is the electron binding energy of MO<sub>i</sub>, U is the kinetic energy of MO<sub>i</sub>; the occupation number N of MO<sub>i</sub> is two for ground state molecules.
 
 ## Workflow of QCEIMS EXMD

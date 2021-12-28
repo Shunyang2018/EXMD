@@ -9,6 +9,6 @@ The **[Binary-Encounter-Bethe (BEB) model](https://physics.nist.gov/PhysRefData/
 # Workflow of QCEIMS EXMD
 a) ground state spectrum is corrected by D1 state with a ratio of 38% (Urocanic acid)
 
-b) the electronic structure is excited to some higher states an back to D0 or D1 state by internal conversion
+b) the electronic structure is excited to some higher states and back to D<sub>0</sub> or D<sub>1</sub>  state by internal conversion
 
 ![image](https://user-images.githubusercontent.com/30486093/147525357-b3980ad5-cba5-4f00-9e09-4aa17ab5bca5.png)

@@ -1,2 +1,5 @@
-![![DOI](https://zenodo.org/badge/232434019.svg)](https://zenodo.org/badge/latestdoi/232434019)
-# Electron Ionization Mass spectrum predcition with Excited-state molecular dynamics
+# QCEIMS x MNDO Excited-state molecular dynamics
+
+The **MNDO** program is used to conduct excited-state molecular dynamics.
+The **GAMESS** program is used to calculate the molecular orbital energy.
+The **Binary-Encounter-Bethe (BEB) model** is used to calculate the ionization cross-section.
